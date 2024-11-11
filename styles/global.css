@@ -28,6 +28,7 @@
     --font-family-maven: "Maven Pro", sans-serif;
     --text-md: 400 16px/140% var(--font-family-maven);
     --text-sm: 400 14px/140% var(--font-family-maven);
+    
 }
 
 body {
@@ -43,4 +44,8 @@ h1, h2, h3 {
 .container {
     max-width: 1366px;
     margin-inline: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
