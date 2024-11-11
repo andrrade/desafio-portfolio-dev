@@ -3,10 +3,12 @@
   background-repeat: no-repeat;
   background-size: 100% 100%;
   height: 750px;
+  font: --font-family-maven; 
+  color: var(--gray500);
+  padding: 120px 57px;
 
   #info {
-    padding-block: 120px 57px;
-
+    
     header {
 
       #avatar {
@@ -29,13 +31,33 @@
 
       #bio {
         margin-block: 56px 80px;
+
+        #hello {
+          font: var(--subtitle);
+          color: var(--gray500);
+        }
+
+        #title {
+          font: var(--title-lg);
+          color: var(--gray600);
+          margin-block: 8px 20px;
+        }
+
+        #description {
+          font: var(--font-family-maven);
+          color: var(--gray400);
+        }
+      }
+
+      span {
+        color: var(--red);
       }
     }
 
     #tags {
       display: flex;
       gap: 16px;
-      
+      margin-bottom: 94px;
 
       .tag {
         display: flex;
