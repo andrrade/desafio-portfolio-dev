@@ -12,11 +12,11 @@
     h1 {
       font: var(--title-md);
       color: var(--gray600);
+      margin-block: 8px 56px;
     }
   }
 
   main {
-    margin-top: 56px;
     text-align: left;
     display: flex;
     flex-wrap: wrap;
@@ -28,7 +28,7 @@
       background: var(--gray300);
       width: 330px;
       height: 280px;
-      
+
       padding: 12px;
       gap: 20px;
 
@@ -39,6 +39,7 @@
       h3 {
         font: var(--title-sm);
         color: var(--gray600);
+        margin-block: 20px 8px;
       }
 
       img {
@@ -46,7 +47,6 @@
         height: 156px;
         border-radius: 8px;
         object-fit: cover;
-        margin-bottom: 24px;
       }
     }
   }
