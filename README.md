@@ -5,7 +5,15 @@ Acesse meu projeto em: <a href="https://andrrade.github.io/desafio-portfolio-dev
 
 ![Portfolio-Dev-Imagem](https://github.com/user-attachments/assets/ea532ad7-d698-467f-99fd-7b968de4d61a)
 
-# 🚀 Tecnoogias Utilizadas
+# 💻Conceitos utilizados no projeto 
+- Criação de layouts com CSS
+- Posicionamento de elementos
+- Variáveis CSS
+- CSS Flexbox
+- CSS Grid
+- pseudo-class e pseudo-elements
+
+# 🚀 Tecnologias Utilizadas
 
 - HTML
 - CSS
