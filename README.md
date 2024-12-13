@@ -1,25 +1,50 @@
-
 # Desafio - Portfólio Dev
-Acesse meu projeto em: <a href="https://andrrade.github.io/desafio-portfolio-dev/" target="_blank">https://andrrade.github.io/desafio-portfolio-dev/</a>
-<br><br>
 
-![Portfolio-Dev-Imagem](https://github.com/user-attachments/assets/ea532ad7-d698-467f-99fd-7b968de4d61a)
+<p align="center">
+  <img alt="Logo da Rocketseat" src="https://github.com/user-attachments/assets/39908634-2aee-4435-8513-fb952559fe3c" width="200px" />
+</p>
 
-# 💻Conceitos utilizados no projeto 
-- Criação de layouts com CSS
-- Posicionamento de elementos
-- Variáveis CSS
-- CSS Flexbox
-- CSS Grid
-- pseudo-class e pseudo-elements
+<p align="center">
+  Desafio proposto pela Rocketseat da trilha Fullstack nas aulas de Layout com CSS.
+</p>
 
-# 🚀 Tecnologias Utilizadas
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-link-do-projeto">Link do Projeto</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
+</p>
+
+<br>
+
+---
+
+##  📂 Projeto
+
+<p align="center">
+  <img alt="Projeto" src="https://github.com/user-attachments/assets/ea532ad7-d698-467f-99fd-7b968de4d61a">
+</p>
+
+---
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido utilizando:
 
 - HTML
 - CSS
-- GitHub
 
-# 📝 Licença
+---
 
-Esse projeto possui licença MIT.
+## 🔗 Link do Projeto
 
+Para acessar o projeto <a href="https://andrrade.github.io/desafio-portfolio-dev/" target="_blank">Clique Aqui</a>.
+
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
