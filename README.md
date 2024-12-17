@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido utilizando:
 
 ## 🔗 Link do Projeto
 
-Para acessar o projeto <a href="https://andrrade.github.io/desafio-portfolio-dev/" target="_blank">Clique Aqui</a>.
+Para acessar o projeto <a href="https://desafio-portfolio-dev.vercel.app/" target="_blank">Clique Aqui</a>.
 
 
 ## 📝 Licença
