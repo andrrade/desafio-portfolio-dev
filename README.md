@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Desafio proposto pela Rocketseat da trilha Fullstack nas aulas de Layout com CSS.
+  Desafio proposto pela Rocketseat nas aulas de Layout com CSS - Formação Fullstack.
 </p>
 
 <p align="center">
